@@ -1,10 +1,14 @@
 
+//objects --- {} (curely brackets)
 let item ={
     name:'phone',
     price:25000,
     quantity:1
 
 }
+//dot Notation
+console.log(person.age)
+
 //accessing any one properties using dot notation
 //console.log(item.price)
 
